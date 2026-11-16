@@ -1,5 +1,6 @@
 # CyberSentinel — Threat Intelligence Hub (Streamlit Deployed)
 
+A production-grade, full-stack cybersecurity intelligence platform combining a real-time analytical frontend with a machine-learning backend data pipeline. Built on a modular vanilla-JS architecture with a Scandinavian minimalist design system.
 A Streamlit rebuild of the original vanilla-JS CyberSentinel dashboard, with
 **live** volumetric forecasting and behavioral anomaly detection instead of
 a pre-generated JSON snapshot.
