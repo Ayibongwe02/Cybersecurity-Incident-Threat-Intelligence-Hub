@@ -1,4 +1,4 @@
-# CyberSentinel — Threat Intelligence Dashboard (Streamlit)
+# CyberSentinel — Threat Intelligence Hub (Streamlit Deployed)
 
 A Streamlit rebuild of the original vanilla-JS CyberSentinel dashboard, with
 **live** volumetric forecasting and behavioral anomaly detection instead of
