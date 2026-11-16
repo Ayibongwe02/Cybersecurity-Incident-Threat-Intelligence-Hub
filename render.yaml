@@ -1,0 +1,13 @@
+# Render Blueprint — free Docker web service, no database
+services:
+  - type: web
+    name: cyber-sentinel
+    runtime: docker
+    plan: free
+    region: frankfurt
+    healthCheckPath: /
+    dockerContext: .
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: NODE_ENV
+        value: production
